@@ -2,4 +2,4 @@
 
 ***A api é um simples CRUD para explorar a criação de services e controllers.***
 
-Para rodar esse projeto, use: ```npm run dev:start``` e acesse do seu navegador o endereço: ```http://localhost:3000```.
+Para rodar esse projeto, use: ```npm run start:dev``` e acesse do seu navegador o endereço: ```http://localhost:3000```.
